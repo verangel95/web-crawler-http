@@ -1,2 +1,2 @@
 # web-crawler-http
-Project for the learn http course
+Hace una busqueda activa de todas las URL que se encuentran alojadas en archivos HTML devueltos de un dominio.
